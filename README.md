@@ -51,7 +51,7 @@ Welcome to the Home Library API, a service for managing artists, albums, tracks,
 1. Install dependencies:
 
 2. Start the server:
-3. 
+
 3. Use API endpoints to manage users, artists, albums, tracks, and favorites.
 
 ## Notes
